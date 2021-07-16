@@ -2,10 +2,10 @@
 
 Robert Rodriguez
 📫 Reach me:
-linkedin.com/
+https://www.linkedin.com/in/robbyrod/
 
 Greetings! 👋
-Im robert rodriguez, about to graduate from Lambda School, I am passionate about web technologies, and design. I am a web developer and actively learning mobile android development with kotlin.
+Im Robert Rodriguez, about to graduate from Lambda School, I am passionate about web technologies, and design. I am a web developer and actively learning mobile android development with kotlin.
 
 
 - 🔭 I’m currently working on ...Boys and Girls Clubs, member sentiment project / PokeHuddle, pokemon social fansite for fans to favorite pokemon and pokemon cards
