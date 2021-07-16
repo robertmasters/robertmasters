@@ -2,7 +2,8 @@
 
 Robert Rodriguez
 📫 Reach me:
-linkedin.com/sakshigupta06
+linkedin.com/
+
 Greetings! 👋
 Im robert rodriguez, about to graduate from Lambda School, I am passionate about web technologies, and design. I am a web developer and actively learning mobile android development with kotlin.
 
