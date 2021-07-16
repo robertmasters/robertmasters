@@ -5,6 +5,7 @@ Robert Rodriguez
 https://www.linkedin.com/in/robbyrod/
 
 Greetings! 👋
+
 Im Robert Rodriguez, about to graduate from Lambda School, I am passionate about web technologies, and design. I am a web developer and actively learning mobile android development with kotlin.
 
 
