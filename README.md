@@ -17,4 +17,4 @@ Im about to graduate from Lambda School, I am passionate about web technologies,
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...linkedin
 - 😄 Pronouns: ...he him
-- ⚡ Fun fact: ...about a decade ago I was a sponsored amateur skateboarder for local boardshop in Vegas called phatboy skateboards.
+- ⚡ Fun fact: ...I was a sponsored amateur skateboarder for local boardshop in Vegas called phatboy skateboards.
