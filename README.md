@@ -11,7 +11,7 @@ Im a Lambda School graduate, currently working for GiveCampus as an intern, I am
 
 
 - 🔭 I’m currently working on ...PokeHuddle, pokemon social fansite for fans to favorite pokemon and pokemon cards
-- 🌱 I’m currently learning ...Android Studio with Kotlin/Ruby on Rails
+- 🌱 I’m currently learning ...Android Studio with Kotlin
 - 👯 I’m looking to collaborate on ...Android projects
 - 🤔 I’m looking for help with ...pokemon APIs
 - 💬 Ask me about ...Anything
