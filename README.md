@@ -17,4 +17,4 @@ Im a Lambda School graduate, currently working for GiveCampus as an intern, I am
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...linkedin
 - 😄 Pronouns: ...he him
-- ⚡ Fun fact: ...I was a sponsored amateur skateboarder for local boardshop in Vegas called phatboy skateboards.
+- ⚡ Fun fact: ...I was an amateur skateboarder that rode for a local boardshop in Vegas called phatboy skateboards.
