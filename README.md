@@ -7,7 +7,7 @@ https://www.linkedin.com/in/robbyrod/
 
 
 
-Im a Lambda School graduate, currently working for GiveCampus as an intern, I am passionate about web technologies, and design. I am a web developer and actively learning mobile android development with kotlin.
+I am passionate about web technologies, and design. I am a web developer and actively learning mobile android development with kotlin.
 
 
 - 🔭 I’m currently working on ...PokeHuddle, pokemon social fansite for fans to favorite pokemon and pokemon cards
